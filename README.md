@@ -3,7 +3,7 @@
 
 잘못된 내용은 [이슈](https://github.com/Dcom-KHU/dcom-tech-interview/issues)나 [Pull Request](https://github.com/Dcom-KHU/dcom-tech-interview/pulls)를 통해 전달 해 주세요!
 
-## Contributer
+## Contributors
 - 17 박민재 - [Github](https://github.com/JustKode) / [Homepage](https://justkode.kr/)
 
 ## Computer Science
@@ -44,3 +44,10 @@
 - ### iOS
 
 - ### Flutter
+
+## Cloud Computing
+- ### Docker
+
+- ### Kubernetes
+
+- ### AWS
