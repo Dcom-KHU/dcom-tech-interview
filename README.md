@@ -7,7 +7,13 @@
 일단 기존에 있는 인터뷰 백과사전이 **지식**을 중점으로 정리 해 놨다면, 여기에 있는 내용들은 **실제로 회사 면접에서 던질 만 한** 질문들을 모아 놓는 목적으로 만들었습니다.
 
 ### 기여를 하려면 어떻게 해야 할까요?
-일단 해당하는 폴더에 `.md` 형식으로 제목과 일치하는 마크다운을 입력 해 주신 후
+일단 `fork` 하여, 본인의 레포지토리에서 작업 하신 후에 **Pull Requests**를 날려 주세요.
+
+#### 문서 추가시
+일단 해당하는 폴더에 `.md` 형식으로 제목과 일치하는 **마크다운 문서**를 **주제에 해당하는 폴더**에 추가 해 주신 후, 해당 게시글의 링크를 최상단 폴더의 `README.md`에 추가 해 주세요. 그 다음 
+
+#### 문서 수정시
+해당 **마크다운 문서**를 수정 후 커밋, 푸쉬 해 주세요.
 
 ### Commit convention rule: 상태) 날짜-[주제]-내용
 
@@ -16,10 +22,12 @@
 - `update`: 업데이트
 - `delete`: 삭제
 
-`ex) add: 2022-04-15 [HTTP 관련 질문] HTTP/1.1 vs HTTP/2`
+`ex) add: 2022-04-15 [글 제목] 추가`
+
+`ex) update: 2022-04-15 [글 제목] ~~ 수정`
 
 ### Trouble Shooting
-잘못된 내용은 [이슈](https://github.com/Dcom-KHU/dcom-tech-interview/issues)나 [Pull Request](https://github.com/Dcom-KHU/dcom-tech-interview/pulls)를 통해 전달 해 주세요!
+잘못된 내용은 [이슈](https://github.com/Dcom-KHU/dcom-tech-interview/issues)나 [Pull Requests](https://github.com/Dcom-KHU/dcom-tech-interview/pulls)를 통해 전달 해 주세요!
 
 ## 👥 Contributors
 - 17 박민재 - [Github](https://github.com/JustKode) / [Homepage](https://justkode.kr/)
@@ -36,6 +44,7 @@
 - ### Database
 
 - ### Network
+    - [우리가 웹 사이트를 접속할 때 일어나는 일](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/when-we-enter-the-website.md)
 
 ## 💡 AI
 - ### Basic
@@ -71,3 +80,7 @@
 - ### Kubernetes
 
 - ### AWS
+
+## References
+- https://github.com/gyoogle/tech-interview-for-developer
+- https://github.com/ksundong/backend-interview-question
