@@ -54,8 +54,8 @@
 - ### Computer Vision
 
 - ### Natural Language Programming
-    - [임베딩이란?](https://github.com/FacerAin/dcom-tech-interview/blob/master/AI/Natural%20Language%20Programming/embedding.md) 
-    - [한국어 NLP가 어려운 이유](https://github.com/FacerAin/dcom-tech-interview/blob/master/AI/Natural%20Language%20Programming/korean-nlp.md)
+    - [임베딩이란?](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/AI/Natural%20Language%20Programming/embedding.md) 
+    - [한국어 NLP가 어려운 이유](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/AI/Natural%20Language%20Programming/korean-nlp.md)
 
 ## 💾 Backend
 - ### Spring
