@@ -54,6 +54,7 @@
 - ### Computer Vision
 
 - ### Natural Language Programming
+    - [임베딩이란?](https://github.com/FacerAin/dcom-tech-interview/blob/master/AI/Natural%20Language%20Programming/embedding.md) 
 
 ## 💾 Backend
 - ### Spring
