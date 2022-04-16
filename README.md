@@ -31,6 +31,7 @@
 
 ## 👥 Contributors
 - 17 박민재 - [Github](https://github.com/JustKode) / [Homepage](https://justkode.kr/)
+- 19 송용우 - [Github](https://github.com/FacerAin) / [Homepage](https://facerain.club/)
 
 ## 💻 Computer Science
 - ### Computer Architecture
