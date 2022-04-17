@@ -87,6 +87,15 @@
 
 - ### AWS
 
+## 💬 Language
+- ### Go
+
+- ### Java
+    
+- ### JavaScript
+
+- ### Python
+
 ## References
 - https://github.com/gyoogle/tech-interview-for-developer
 - https://github.com/ksundong/backend-interview-question
