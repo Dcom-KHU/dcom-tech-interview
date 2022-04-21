@@ -91,7 +91,7 @@
 - ### Go
 
 - ### Java
-
+    - [SOLID 법칙이란?](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Language/Java/solid.md)
 - ### Kotlin
     
 - ### JavaScript
