@@ -52,6 +52,7 @@
 
 ## 💡 AI
 - ### Basic
+   - [Batch Size VS Epoch](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/AI/Basic/batch-epoch.md)
 
 - ### Computer Vision
 
