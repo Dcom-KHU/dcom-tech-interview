@@ -81,7 +81,7 @@
 
 ## ☁️ Cloud Computing
 - ### Basic
-
+    - [Monolithic vs MSA](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Cloud%20Computing/Basic/monolithic-vs-msa.md)
 - ### Docker
 
 - ### Kubernetes
