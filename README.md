@@ -48,7 +48,7 @@
     - [트렌젝션 고립레벨은 뭐고, 이걸 왜 나눠 놓은거죠?](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Database/transaction-isolation.md)
 - ### Network
     - [우리가 웹 사이트를 접속할 때 일어나는 일](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/when-we-enter-the-website.md)
-    - [HTTP 1.1 vs HTTP 2.0](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/http-1-vs-2.md)'
+    - [HTTP 1.1 vs HTTP 2.0](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/http-1-vs-2.md)
 
 ## 💡 AI
 - ### Basic
