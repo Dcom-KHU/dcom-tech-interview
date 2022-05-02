@@ -16,7 +16,7 @@
 
 ### MSA (Micro Service Architecture)
 
-그와 반대로 **MSA (Micro Service Architecture)**은 **하나의 서비스를 여러 개의 작은 어플리케이션**으로 만드는 것을 의미합니다. 대부분의 경우 **Kubernetes** 같은 **Container Orchestration** 툴을 이용 하여 운영합니다.
+그와 반대로 **MSA** (Micro Service Architecture)은 **하나의 서비스를 여러 개의 작은 어플리케이션**으로 만드는 것을 의미합니다. 대부분의 경우 **Kubernetes** 같은 **Container Orchestration** 툴을 이용 하여 운영합니다.
 
 #### 장점
 - **Scale Out**이 가능 합니다.
