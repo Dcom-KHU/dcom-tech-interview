@@ -52,6 +52,8 @@
     - [우리가 웹 사이트를 접속할 때 일어나는 일](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/when-we-enter-the-website.md)
     - [HTTP 1.1 vs HTTP 2.0](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Computer%20Science/Network/http-1-vs-2.md)
     - [HTTPS와 SSL/TLS](https://github.com/BambooKim/dcom-tech-interview/blob/master/Computer%20Science/Network/https-ssl-tls.md)
+    - [Connectionless와 Stateless](https://github.com/BambooKim/dcom-tech-interview/blob/master/Computer%20Science/Network/connectionless-stateless.md)
+    - [쿠키와 세션](https://github.com/BambooKim/dcom-tech-interview/blob/master/Computer%20Science/Network/cookie-session.md)
 
 
 ## 💡 AI
