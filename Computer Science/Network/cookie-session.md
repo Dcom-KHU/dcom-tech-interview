@@ -86,7 +86,7 @@
 
 - 로그인 이후 Request
 
-![](https://velog.velcdn.com/images/bambookim/post/9bc96923-d28b-4ab6-a794-70f4f827ad27/image.png)
+![](https://velog.velcdn.com/images/bambookim/post/b59cbd96-e58c-488e-977d-5f350a2673ce/image.png)
 
 
 ## 쿠키와 세션의 비교
