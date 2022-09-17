@@ -99,6 +99,7 @@
 
 - ### Java
     - [SOLID 법칙이란?](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Language/Java/solid.md)
+    - [JVM의 메모리 구조](https://github.com/BambooKim/dcom-tech-interview/blob/master/Language/Java/jvm.md)
 - ### Kotlin
     
 - ### JavaScript
