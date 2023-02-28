@@ -33,6 +33,7 @@
 - 17 박민재 - [Github](https://github.com/JustKode) / [Homepage](https://justkode.kr/)
 - 19 송용우 - [Github](https://github.com/FacerAin) / [Homepage](https://facerain.club/)
 - 18 김범구 - [Github](https://github.com/BambooKim) / [Homepage](https://velog.io/@bambookim)
+- 21 임승현 - [Github](https://github.com/kevinlim17) / [Homepage](https://velog.io/@kevinlsh17)
 
 ## 💻 Computer Science
 - ### Computer Architecture
@@ -80,7 +81,7 @@
 - ### React.js
 
 - ### Android
-
+    - [Android에서 MVVM 패턴이 중요한 이유](https://github.com/Dcom-KHU/dcom-tech-interview/blob/master/Frontend/Android/mvvm-design-pattern.md)
 - ### iOS
 
 - ### Flutter
